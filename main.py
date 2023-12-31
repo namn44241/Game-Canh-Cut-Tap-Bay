@@ -93,7 +93,6 @@ def win():
     win_Text = custom_font.render(f'YOU LOSE', True, 'White')
     display_screen.blit(win_Text, (600, 300))
     bg_sound.stop()
-    bg_sound.set_volume(0.0)
     win_sound.play()
 
 
@@ -123,7 +122,7 @@ while gameRunning:
             bg2_box = display_screen.blit(bg, (bg_x + 1400, bg_y))
             bg_x -= 5
             if bg_x == -1400:
-                bg_x =0
+                bg_x = 0
             #Chuong ngai vat
             obs_box = display_screen.blit(obstacle, (obs_x, obs_y))
             #Chuong ngai vat chuyen dong
@@ -156,10 +155,10 @@ while gameRunning:
             if score >= 15 and score < 30:
                 x_move = 25
                 bg = bg1
-            if score >= 30 and score < 69:
+            if score >= 30 and score < 32:
                 x_move = 30
                 bg = bg2
-            if score >= 69:
+            if score >= 32:
                 isWin = True
                 win()
         else:
