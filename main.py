@@ -40,9 +40,9 @@ char_x, char_y = 300, 570
 x_move = 15
 y_move = 10
 jump = False
-bg_sound.set_volume(0.0)
-over_sound.set_volume(0.0)
-jump_sound.set_volume(0.0)
+bg_sound.set_volume(0.1)
+over_sound.set_volume(0.3)
+jump_sound.set_volume(0.2)
 
 #Khoi tao chuyen dong cua nhan vat
 animation_list = []    #6 chuyển động
