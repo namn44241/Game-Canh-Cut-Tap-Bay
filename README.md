@@ -1,9 +1,9 @@
 === GAME CÁNH CỤT TẬP BAY ===
 
 1. Thành viên:
-Trần Thị Bình - B23DCCC018
-Nguyễn Hữu Nam - B23DCCC121
-Nguyễn Văn Quốc - B23DCCC141
+- Trần Thị Bình - B23DCCC018
+- Nguyễn Hữu Nam - B23DCCC121
+- Nguyễn Văn Quốc - B23DCCC141
 
 3. Tên game: Cánh Cụt Tìm Mẹ
 
@@ -42,9 +42,11 @@ Nhân vật chim cánh cụt trong game là biểu tượng cho sự kiên nhẫ
 8. Cách chơi:
 
 8.1 Cách cài đặt:
+Cài đặt các mô-đun cần thiết trong "requirements.txt"
+Mở terminal:
 Cài đặt pygame (pip install pygame).
-Cài đặt mediapipe, mở terminal và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
-Mở 2 của sổ vscode độc lập rồi chạy game và mediapipe.
+Cài đặt mediapipe và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
+Mở 2 của sổ VS Code độc lập rồi chạy game và mediapipe.
 
 8.2 Cách chơi:
-Người chơi phải nhảy qua các chướng ngại vật để về về đích. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím "Space trên bàn phím để nhảy thay vì dùng cử chỉ tay.
+Người chơi phải nhảy qua các chướng ngại vật để về về đích. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím "Space" trên bàn phím để nhảy thay vì dùng cử chỉ tay.
