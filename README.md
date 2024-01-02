@@ -1,18 +1,20 @@
+=== GAME CÁNH CỤT TẬP BAY ===
+
 1. Thành viên
 Trần Thị Bình - B23DCCC018
 Nguyễn Hữu Nam - B23DCCC121
 Nguyễn Văn Quốc - B23DCCC141
 
-2. Tên game: Cánh Cụt Tìm Mẹ
+3. Tên game: Cánh Cụt Tìm Mẹ
 
-3. Nhân vật:
+4. Nhân vật:
 Bé cánh cụt
 Chướng ngại vật
 
-4. Cảm hứng game:
+5. Cảm hứng game:
 Tựa game này lấy cảm hứng từ vẻ đẹp lạnh lẽo của mùa đông với sự kiên trì và hình ảnh dễ thương của chú chim cánh cụt. Hình ảnh băng tuyết và cảnh vật mùa đông được sử dụng để tạo không gian game, với các chướng ngại vật được thiết kế đáng yêu nhưng vẫn đầy thách thức. Nhân vật chính là chú chim cánh cụt, không có khả năng bay, nhưng mang thông điệp về sự kiên trì và quyết tâm vượt qua mọi khó khăn.
 
-5. Cốt truyện:
+6. Cốt truyện:
 Trong thế giới đầy màu sắc của Chillville, có một hòn đảo nổi tiếng với những chú chim cánh cụt đáng yêu. Trong số đó, có một chú cánh cụt tên là Puffy, với ước mơ lớn lao là được bay lượn giữa bầu trời xanh thẳm.
 Mỗi ngày, Puffy đều nhìn lên bầu trời, mong ước có thể nhảy lên và duỗi cánh bay xa. Nhưng mỗi lần cậu cố gắng nhảy, đôi cánh bé nhỏ của Puffy chỉ đủ để giúp cậu nhảy lên một chút rồi rụng xuống đất.
 Dù biết rằng cánh cụt không thể bay, nhưng Puffy không bao giờ từ bỏ ước mơ. Cậu luôn tìm cách, từ việc tập nhảy cao hơn đến việc chạy nhanh hơn, đều để thử thách giới hạn của mình. Mỗi lần ngã xuống, niềm tin của Puffy vẫn không hề suy giảm.
@@ -21,7 +23,7 @@ Quãng đường tập luyện và chuẩn bị cho cuộc thi đã giúp Puffy 
 Cuộc thi diễn ra với sự hồi hộp và kịch tính. Mỗi chú cánh cụt đều nhảy lên hết sức mình, với hy vọng vượt qua giới hạn của mình. Puffy cũng không phải là ngoại lệ, mỗi nhảy lên của cậu đều là một bước tiến mới.
 Cuối cùng, khi Puffy nhảy lên một lần nữa, đôi cánh bé nhỏ không thể đưa cậu lên cao, nhưng những chú cánh cụt bạn bè đã chứng kiến nhận ra rằng, dù không bay được, Puffy vẫn là người chiến thắng. Sự kiên trì, quyết tâm và lòng kiêu hãnh với bản thân đã khiến Puffy trở thành nguồn cảm hứng lớn lao cho tất cả chú chim xung quanh. Và cuối cùng, Puffy chấp nhận sự thật rằng, dù không bay lượn, cậu vẫn là một ngôi sao rực sáng trong lòng của mọi người ở Chillville.
 
-6. Ý nghĩa các nhân vật- đối tượng trong game:
+7. Ý nghĩa các nhân vật- đối tượng trong game:
 
 6.1 Ý nghĩa thử thách: rào cản
 - Tăng độ khó cho game
