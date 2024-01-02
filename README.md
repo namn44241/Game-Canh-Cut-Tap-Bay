@@ -8,14 +8,14 @@
 3. Tên game: Cánh Cụt Tìm Mẹ
 
 4. Nhân vật:
-Bé cánh cụt
-Chướng ngại vật
+- Bé cánh cụt
+- Chướng ngại vật
 
 5. Cảm hứng game:
-Tựa game này lấy cảm hứng từ vẻ đẹp lạnh lẽo của mùa đông với sự kiên trì và hình ảnh dễ thương của chú chim cánh cụt. Hình ảnh băng tuyết và cảnh vật mùa đông được sử dụng để tạo không gian game, với các chướng ngại vật được thiết kế đáng yêu nhưng vẫn đầy thách thức. Nhân vật chính là chú chim cánh cụt, không có khả năng bay, nhưng mang thông điệp về sự kiên trì và quyết tâm vượt qua mọi khó khăn.
+- Tựa game này lấy cảm hứng từ vẻ đẹp lạnh lẽo của mùa đông với sự kiên trì và hình ảnh dễ thương của chú chim cánh cụt. Hình ảnh băng tuyết và cảnh vật mùa đông được sử dụng để tạo không gian game, với các chướng ngại vật được thiết kế đáng yêu nhưng vẫn đầy thách thức. Nhân vật chính là chú chim cánh cụt, không có khả năng bay, nhưng mang thông điệp về sự kiên trì và quyết tâm vượt qua mọi khó khăn.
 
 6. Cốt truyện:
-Trong thế giới đầy màu sắc của Chillville, có một hòn đảo nổi tiếng với những chú chim cánh cụt đáng yêu. Trong số đó, có một chú cánh cụt tên là Puffy, với ước mơ lớn lao là được bay lượn giữa bầu trời xanh thẳm.
+- Trong thế giới đầy màu sắc của Chillville, có một hòn đảo nổi tiếng với những chú chim cánh cụt đáng yêu. Trong số đó, có một chú cánh cụt tên là Puffy, với ước mơ lớn lao là được bay lượn giữa bầu trời xanh thẳm.
 Mỗi ngày, Puffy đều nhìn lên bầu trời, mong ước có thể nhảy lên và duỗi cánh bay xa. Nhưng mỗi lần cậu cố gắng nhảy, đôi cánh bé nhỏ của Puffy chỉ đủ để giúp cậu nhảy lên một chút rồi rụng xuống đất.
 Dù biết rằng cánh cụt không thể bay, nhưng Puffy không bao giờ từ bỏ ước mơ. Cậu luôn tìm cách, từ việc tập nhảy cao hơn đến việc chạy nhanh hơn, đều để thử thách giới hạn của mình. Mỗi lần ngã xuống, niềm tin của Puffy vẫn không hề suy giảm.
 Mọi chuyện bắt đầu thay đổi khi Puffy gặp gỡ một nhóm các bạn cánh cụt khác. Họ cũng có ước mơ bay nhưng cũng đều gặp phải rắc rối tương tự. Bằng sự đoàn kết và sự khích lệ lẫn nhau, họ quyết định cùng nhau thực hiện một cuộc thi nhảy để tìm ra ai có thể nhảy cao nhất.
@@ -33,7 +33,7 @@ Cuối cùng, khi Puffy nhảy lên một lần nữa, đôi cánh bé nhỏ kh�
 - Đem lại cảm giác thành công
 
 6.2 Ý nghĩa nhân vật chim cánh cụt:
-Nhân vật chim cánh cụt trong game là biểu tượng cho sự kiên nhẫn, quyết tâm và khát khao vượt qua khó khăn. Chú chim đại diện cho ý chí và lòng dũng cảm trong việc đối mặt với thách thức, truyền cảm hứng cho người chơi không bao giờ từ bỏ và luôn cố gắng hết mình để vượt qua mọi rào cản.
+- Nhân vật chim cánh cụt trong game là biểu tượng cho sự kiên nhẫn, quyết tâm và khát khao vượt qua khó khăn. Chú chim đại diện cho ý chí và lòng dũng cảm trong việc đối mặt với thách thức, truyền cảm hứng cho người chơi không bao giờ từ bỏ và luôn cố gắng hết mình để vượt qua mọi rào cản.
 
 7. Thông điệp, lời nhắn của team 'vải' muốn gửi gắm qua trò chơi
 - Lời gửi gắm qua trò chơi này là khuyến khích người chơi không ngừng cố gắng, dù có gặp bất cứ trở ngại nào trong cuộc sống. Sự kiên nhẫn và quyết tâm là chìa khóa để vượt qua mọi thách thức, và bất kỳ thành công nào cũng đều bắt đầu từ sự kiên trì và nỗ lực không ngừng. Đồng thời, thông điệp này cũng khuyến khích lòng tự tin và sẵn sàng đối mặt với những khó khăn, tin rằng mỗi nỗ lực đều đáng giá để thực hiện ước mơ.
@@ -42,11 +42,11 @@ Nhân vật chim cánh cụt trong game là biểu tượng cho sự kiên nhẫ
 8. Cách chơi:
 
 8.1 Cách cài đặt:
-Cài đặt các mô-đun cần thiết trong "requirements.txt"
-Mở terminal:
-Cài đặt pygame (pip install pygame).
-Cài đặt mediapipe và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
-Mở 2 của sổ VS Code độc lập rồi chạy game và mediapipe.
+- Cài đặt các mô-đun cần thiết trong "requirements.txt"
+- Mở terminal:
+- Cài đặt pygame (pip install pygame).
+- Cài đặt mediapipe và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
+- Mở 2 của sổ VS Code độc lập rồi chạy game và mediapipe.
 
 8.2 Cách chơi:
-Người chơi phải nhảy qua các chướng ngại vật để về về đích. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím "Space" trên bàn phím để nhảy thay vì dùng cử chỉ tay.
+- Người chơi phải nhảy qua các chướng ngại vật để về về đích. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím "Space" trên bàn phím để nhảy thay vì dùng cử chỉ tay.
