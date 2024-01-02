@@ -1,6 +1,6 @@
 === GAME CÁNH CỤT TẬP BAY ===
 
-1. Thành viên
+1. Thành viên:
 Trần Thị Bình - B23DCCC018
 Nguyễn Hữu Nam - B23DCCC121
 Nguyễn Văn Quốc - B23DCCC141
