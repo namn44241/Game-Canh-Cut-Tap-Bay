@@ -5,7 +5,7 @@
 - Nguyễn Hữu Nam - B23DCCC121
 - Nguyễn Văn Quốc - B23DCCC141
 
-3. Tên game: Cánh Cụt Tìm Mẹ
+3. Tên game: Cánh Cụt Tập Bay
 
 4. Nhân vật:
 - Bé cánh cụt
