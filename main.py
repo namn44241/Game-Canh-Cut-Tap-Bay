@@ -132,7 +132,6 @@ while gameRunning:
             #Nhat vat game
             current_time = pygame.time.get_ticks()
             if current_time - last_update >= animation_cooldown:
-                #khó hiểu kk
                 frame += 1
                 last_update = current_time
             if frame >= len(animation_list):
@@ -146,6 +145,7 @@ while gameRunning:
             if char_y < 570 and jump == False:
                 char_y += y_move
             score += 0.02
+            #tính điểm
             if high_score < score:
                 high_score = score
             isAlive = ktravacham()
@@ -155,10 +155,10 @@ while gameRunning:
             if score >= 15 and score < 30:
                 x_move = 25
                 bg = bg1
-            if score >= 30 and score < 32:
+            if score >= 30 and score < 100:
                 x_move = 30
                 bg = bg2
-            if score >= 32:
+            if score >= 100:
                 isWin = True
                 win()
         else:
