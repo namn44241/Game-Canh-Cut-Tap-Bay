@@ -33,7 +33,7 @@ Cuối cùng, khi Puffy nhảy lên một lần nữa, đôi cánh bé nhỏ kh�
 5.2 Ý nghĩa nhân vật chim cánh cụt:
 - Nhân vật chim cánh cụt trong game là biểu tượng cho sự kiên nhẫn, quyết tâm và khát khao vượt qua khó khăn. Chú chim đại diện cho ý chí và lòng dũng cảm trong việc đối mặt với thách thức, truyền cảm hứng cho người chơi không bao giờ từ bỏ và luôn cố gắng hết mình để vượt qua mọi rào cản.
 
-6. Thông điệp, lời nhắn của team 'vải' muốn gửi gắm qua trò chơi
+6. Thông điệp, lời nhắn của team 'vải' muốn gửi gắm qua trò chơi:
 - Lời gửi gắm qua trò chơi này là khuyến khích người chơi không ngừng cố gắng, dù có gặp bất cứ trở ngại nào trong cuộc sống. Sự kiên nhẫn và quyết tâm là chìa khóa để vượt qua mọi thách thức, và bất kỳ thành công nào cũng đều bắt đầu từ sự kiên trì và nỗ lực không ngừng. Đồng thời, thông điệp này cũng khuyến khích lòng tự tin và sẵn sàng đối mặt với những khó khăn, tin rằng mỗi nỗ lực đều đáng giá để thực hiện ước mơ.
 - Thông điệp qua việc chú chim cánh cụt dù cố gắng tới mấy nhưng vẫn thất bại là về việc chấp nhận sự thật và học cách đối diện với thất bại một cách tích cực. Mặc dù chú không có khả năng bay, nhưng những nỗ lực không ngừng cố gắng vẫn giúp chú học được rất nhiều điều mới. Thất bại không phải là kết thúc, mà là cơ hội để học hỏi, điều chỉnh và tiến xa hơn trong cuộc sống. Thông điệp này cũng nhấn mạnh rằng quá trình cố gắng và học hỏi từ thất bại cũng quan trọng như việc đạt được mục tiêu. Đôi khi, những thất bại là nguồn động viên lớn để tiến lên phía trước và trở nên mạnh mẽ hơn. Chú chim cánh cụt không chỉ là biểu tượng cho sự kiên nhẫn, mà còn là minh chứng sống cho việc mỗi thất bại đều có thể trở thành bước đệm cho thành công trong tương lai.
 - Thông điệp qua việc tạo hình nhân vật cũng như ảnh nền: Chúng ta đang phải đối diện với biến đổi khí hậu diễn ra mạnh mẽ, game như lời cảnh tỉnh cho ta rằng: Nếu không bảo vệ môi trường sống chính chúng ta, thì khung cảnh bắc cực đá băng mát mẻ, cũng như những chú chim cánh cụt sẽ không còn tung cánh.
@@ -42,7 +42,7 @@ Cuối cùng, khi Puffy nhảy lên một lần nữa, đôi cánh bé nhỏ kh�
 
 7.1 Cách cài đặt:
 - Cài đặt các mô-đun cần thiết trong "requirements.txt"
-- Mở terminal:
+- Mở terminal
 - Cài đặt pygame (pip install pygame).
 - Cài đặt mediapipe và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
 - Mở 2 của sổ VS Code độc lập rồi chạy game và mediapipe.
