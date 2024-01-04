@@ -100,7 +100,6 @@ def win():
 gameRunning = True
 while gameRunning:
     clock.tick(60)
-    #fps của game
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             gameRunning = False
