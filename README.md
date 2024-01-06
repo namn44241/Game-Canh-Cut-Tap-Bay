@@ -45,7 +45,7 @@ Cuối cùng, khi Puffy nhảy lên một lần nữa, đôi cánh bé nhỏ kh�
 - Mở terminal
 - Cài đặt pygame (pip install pygame).
 - Cài đặt mediapipe và gõ lệnh lần lượt (pip install opencv-python) -> (pip install mediapipe) -> (pip install numpy) -> (pip install pynput).
-- Mở 2 của sổ VS Code độc lập rồi chạy game và mediapipe.
+- Mở 2 cửa sổ VS Code độc lập rồi chạy game và mediapipe.
 
 7.2 Cách chơi:
-- Người chơi phải nhảy qua các chướng ngại vật để về về đích. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím "Space" trên bàn phím để nhảy thay vì dùng cử chỉ tay.
+- Người chơi phải nhảy qua các chướng ngại vật để về đích. Người chơi sử dụng cử chỉ tay (xòe bàn tay) để nhảy lên và nắm bàn tay lại để chạy bình thường. Ngoài ra người chơi có thế bấm phím "Space" trên bàn phím để nhảy thay vì dùng cử chỉ tay.
